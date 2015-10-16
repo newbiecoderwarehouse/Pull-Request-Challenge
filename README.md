@@ -9,7 +9,7 @@ This challenge should only take you between 2 and 10 minutes to complete, depend
 That's it! :) 
 
 #### Resources
-- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/) which give you a quick overview of the git workflow.
 - [Pull Request Video](http://www.youtube.com/watch?v=YTbRzhQju4c) 
 
 Click on the video below to learn more about pull requests.
@@ -58,14 +58,28 @@ Some basic knowledge of git and github but not required.
 
 #### Knowledge/Experience
 - Basic knowledge of git and github such as add, commit, push, and pull.
+- Know what a [Forked project](https://help.github.com/articles/fork-a-repo/) is and how to work within it. 
 - Familiar with working on a project locally or through and IDE
 
 #### Steps
-1. Fork the project
-2. Clone the forked version of the project to your local or IDE environment
-3. Make a new branch and name it your Github username
-4. Copy/paste/rename the template.md file to your Github username
-5. Answer the questions and save it
-6. Commit the changes
-7. Push to forked repository
-8. Submit a pull request
+ 1. Fork the project
+	 - In the repository, click on the fork button in the top right corner
+	 - This will make a copy of the project and connect it to your account
+ 2. Clone the forked version of the project to your local or IDE environment
+	 - Once the forked project loads, click the copy to clipboard button from the HTTPS clone url section
+	 - After you have the url to clone, go to you local or ide environment and run a git clone of the forked repository (code at bottom of this list)
+	  - **Important**: Make sure this is a forked copy of the repository, if the url doesn't have your username, you may not have forked properly. If you forked properly, you don't have to push the copy button. You can use the code below and insert **your own github username**.
+    - `git clone https://github.com/yourusername/Pull-Request-Challenge.git`
+ 
+ 3. Make a new branch and name it your Github username
+    - `git checkout -b yourusername`
+
+ 4. Copy/paste/rename the template.md file to your Github username
+     - The template file should not be edited. A new copy of the template.md file with your username will make it easier to merge into the repository. 
+ 5. Answer the questions and save it
+ 6. Commit the changes
+     - `git add -A`
+     - `git commit -m "Add yourusername to the challenge"`
+ 7. Push the branch of the forked repository
+     - `git push origin yourusername`
+ 8. Submit a pull request from your forked github repository
