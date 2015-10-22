@@ -1,14 +1,22 @@
 # Pull-Request-Challenge
-Coder Newbie Warehouse challenges you to get better acquainted with git and Github. 
+[Newbie Coder Warehouse](https://www.facebook.com/groups/1594816820775537/?fref=nf) challenges you to get better acquainted with git and Github. 
 
 This challenge should only take you between 2 and 10 minutes to complete, depending on your familiarity with git and Github.
 
-#### Required Materials - For beginners and intermediate/advanced
+####Table of Contents
+
+* [Required Materials for all participants](#required-materials-for-all-participants)
+* [Git and Github resources](#git-and-github-resources)
+* [Which Route to Take](#which-route-to-take)
+* [Beginner Route](#beginner-route)
+* [Intermediate and Advanced Route](#intermediate-and-advanced-route)
+
+#### Required Materials for all Participants
 1. A Github account. To sign up, visit: https://github.com/join
 
 That's it! :) 
 
-#### Resources
+#### Git and Github Resources
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/) which give you a quick overview of the git workflow.
 - [Pull Request Video](http://www.youtube.com/watch?v=YTbRzhQju4c) 
 
@@ -21,11 +29,11 @@ If you have little or no previous experience with git and Github, then take the 
  
 If you have some experience with adding, committing, and pushing Github projects either locally or through an IDE, we recommend the Intermediate/Advanced route.
 
-##Beginner Route 
-#### Knowledge/Experience
+###Beginner Route 
+##### Knowledge/Experience
 Some basic knowledge of git and github but not required.
 
-#### Steps
+##### Steps
 1. Go to the [Pull-Request-Challenge Github Repository](https://github.com/newbiecoderwarehouse/Pull-Request-Challenge)
  - If you reading this direction set from the README.md file, then you are in the repository.
 2. Click on the **template.md** document. (Note: this is the doc you will edit.) <br>![enter image description here](https://s3-us-west-2.amazonaws.com/newbie-coder-warehouse/images/beginner-steps/templatemd.png "template.md")
@@ -45,12 +53,12 @@ Some basic knowledge of git and github but not required.
 8. Challenge Complete! <br> ![enter image description here](https://s3-us-west-2.amazonaws.com/newbie-coder-warehouse/images/beginner-steps/once-done.png)
  - Wait (we will add your changes ASAP)
 
+[Back to top](#pull-request-challenge)
 
 ----------
 
-
-## Intermediate/Advanced Route
-#### Materials
+### Intermediate and Advanced Route
+##### Materials
 - A local or IDE development environment with git installed
   - Most IDE environments have git installed
   - [Instructions on how to install git locally](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -83,3 +91,8 @@ Some basic knowledge of git and github but not required.
  7. Push the branch of the forked repository
      - `git push origin yourusername`
  8. Submit a pull request from your forked github repository
+
+[Back to top](#pull-request-challenge)
+
+The end! :) Make sure to "star" the repo if you enjoyed this challenge. 
+
