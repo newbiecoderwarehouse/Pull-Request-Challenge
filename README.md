@@ -20,10 +20,6 @@ That's it! :)
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/) which give you a quick overview of the git workflow.
 - [Pull Request Video](http://www.youtube.com/watch?v=YTbRzhQju4c) 
 
-Click on the video below to learn more about pull requests.
-
-[![Alt text](http://img.youtube.com/vi/YTbRzhQju4c/0.jpg)](http://www.youtube.com/watch?v=YTbRzhQju4c)
-
 ####Which route to take?
 If you have little or no previous experience with git and Github, then take the beginner route.
  
@@ -47,7 +43,7 @@ Some basic knowledge of git and github but not required.
 	- The body text text is optional. For this challenge, don't worry about putting anything in this area.
 	- When finished, click on the green 'Propose file change' button <br> ![enter image description here](https://s3-us-west-2.amazonaws.com/newbie-coder-warehouse/images/beginner-steps/propose-file-change.png)
 7. After the 'Comparing changes' page loads, click on "Create pull request" <br> ![enter image description here](https://s3-us-west-2.amazonaws.com/newbie-coder-warehouse/images/beginner-steps/comparing-changes.png)
- - Note: This is a interesting area to focus on. Scroll down and see the changes you have made (highlighted in green) and the red is what has been deleted <SCREENSHOT>
+ - Note: This is a interesting area to focus on. Scroll down and see the changes you have made (highlighted in green) and the red is what has been deleted
 8. After the "Open a pull request" loads, you will see what you wrote before (In Propose file change) now in the commit section in the first input area. (Also, if you added anything in the body area, it will show up here as well) <br> ![enter image description here](https://s3-us-west-2.amazonaws.com/newbie-coder-warehouse/images/beginner-steps/after-click-Open+a+pull+request.png)
 - Click on "Create pull request" 
 8. Challenge Complete! <br> ![enter image description here](https://s3-us-west-2.amazonaws.com/newbie-coder-warehouse/images/beginner-steps/once-done.png)
@@ -79,6 +75,8 @@ Some basic knowledge of git and github but not required.
 	  - **Important**: Make sure this is a forked copy of the repository, if the url doesn't have your username, you may not have forked properly. If you forked properly, you don't have to push the copy button. You can use the code below and insert **your own github username**.
     - `git clone https://github.com/yourusername/Pull-Request-Challenge.git`
  
+ <IMAGE int-adv-top-image.png>
+ 
  3. Make a new branch and name it your Github username
     - `git checkout -b yourusername`
 
@@ -91,7 +89,7 @@ Some basic knowledge of git and github but not required.
  7. Push the branch of the forked repository
      - `git push origin yourusername`
  8. Submit a pull request from your forked github repository
-
+<IMAGE int-adv-pull-request-after-last-step.png>
 [Back to top](#pull-request-challenge)
 
 The end! :) Make sure to "star" the repo if you enjoyed this challenge. 
