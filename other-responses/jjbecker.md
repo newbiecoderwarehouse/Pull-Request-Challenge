@@ -4,7 +4,7 @@
 2. Go to the theater or a movie?
     - Answer: theater
 3. Choose a free trip or money?
-    - Answer: money
+    - Answer: money, cause you can take a trip with money
 4. Win the lottery or find your perfect job?
     - Answer: perfect job
 5. Salt water and waves crashing on the beach or temperature controlled, lovely water all year round.
